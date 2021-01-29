@@ -9,7 +9,7 @@ import random
 import time
 import urllib.request, urllib.error, urllib.parse
 
-from BeautifulSoup import BeautifulSoup
+from beautifulsoup4 import BeautifulSoup
 from datetime import datetime
 
 DATA_DIR = "data"
